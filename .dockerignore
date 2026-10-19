@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+*.ipynb
+mnist.jpg
+frontend.py
+.git/
