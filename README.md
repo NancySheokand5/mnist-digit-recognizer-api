@@ -96,6 +96,7 @@ python -m pip install streamlit requests pandas
 python -m streamlit run frontend.py
 
 Open http://localhost:8501, upload an image, and click Predict.
+<img width="1540" height="467" alt="image" src="https://github.com/user-attachments/assets/8d3474a8-f8a3-4762-b0e7-3ed75b0b6228" />
 
 API Usage
 GET /
